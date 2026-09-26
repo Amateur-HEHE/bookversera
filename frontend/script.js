@@ -1,5 +1,5 @@
 const API="https://openlibrary.org";
-const AI_API="http://127.0.0.1:5000";
+const AI_API = "https://bookverse-api-se23.onrender.com";
 
 let currentBook=null;
 let heroBooks=[];
