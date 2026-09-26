@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>BookVerse</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+</head>
+
+<body>
+
+    <!-- =====================================================
+         HEADER
+         ===================================================== -->
+
+    <header class="header">
+
+        <div class="logo">
+            <span>Book</span>Verse
+        </div>
+
+        <nav class="nav">
+            <a href="#home">Home</a>
+            <a href="#categories">Categories</a>
+        </nav>
+
+        <div class="header-search">
+
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search books or authors..."
+            >
+
+            <button id="searchButton">
+                🔍
+            </button>
+
+        </div>
+
+    </header>
+
+
+    <!-- =====================================================
+         MAIN
+         ===================================================== -->
+
+    <main id="home">
+
+        <!-- =================================================
+             HERO
+             ================================================= -->
+
+        <section class="hero">
+
+            <div
+                class="hero-background"
+                id="heroBackground"
+            ></div>
+
+            <div class="hero-overlay"></div>
+
+            <div class="hero-content">
+
+                <div class="hero-label">
+                    FEATURED BOOK
+                </div>
+
+                <h1 id="heroTitle">
+                    Loading...
+                </h1>
+
+                <p id="heroAuthor">
+                    Loading...
+                </p>
+
+                <div class="hero-controls">
+
+                    <button
+                        id="heroPrevious"
+                        class="hero-arrow"
+                    >
+                        ‹
+                    </button>
+
+                    <button
+                        id="heroNext"
+                        class="hero-arrow"
+                    >
+                        ›
+                    </button>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             SEARCH RESULTS
+             ================================================= -->
+
+        <section
+            class="search-section hidden"
+            id="searchSection"
+        >
+
+            <div class="section-header">
+
+                <h2 id="searchTitle">
+                    Search Results
+                </h2>
+
+            </div>
+
+            <div
+                class="search-grid"
+                id="searchResults"
+            ></div>
+
+        </section>
+
+
+        <!-- =================================================
+             CATEGORY SECTIONS
+             ================================================= -->
+
+        <section
+            id="categories"
+            class="categories"
+        >
+
+            <div
+                class="book-section"
+                data-subject="fiction"
+            >
+
+                <div class="section-header">
+                    <h2>🔥 Popular</h2>
+                </div>
+
+                <div class="book-row" id="popularRow">
+                    <div class="loading">Loading books...</div>
+                </div>
+
+            </div>
+
+
+            <div
+                class="book-section"
+                data-subject="fantasy"
+            >
+
+                <div class="section-header">
+                    <h2>🪄 Fantasy</h2>
+                </div>
+
+                <div class="book-row" id="fantasyRow">
+                    <div class="loading">Loading books...</div>
+                </div>
+
+            </div>
+
+
+            <div
+                class="book-section"
+                data-subject="science_fiction"
+            >
+
+                <div class="section-header">
+                    <h2>🚀 Science Fiction</h2>
+                </div>
+
+                <div class="book-row" id="scienceRow">
+                    <div class="loading">Loading books...</div>
+                </div>
+
+            </div>
+
+
+            <div
+                class="book-section"
+                data-subject="mystery"
+            >
+
+                <div class="section-header">
+                    <h2>🔍 Mystery</h2>
+                </div>
+
+                <div class="book-row" id="mysteryRow">
+                    <div class="loading">Loading books...</div>
+                </div>
+
+            </div>
+
+
+            <div
+                class="book-section"
+                data-subject="romance"
+            >
+
+                <div class="section-header">
+                    <h2>❤️ Romance</h2>
+                </div>
+
+                <div class="book-row" id="romanceRow">
+                    <div class="loading">Loading books...</div>
+                </div>
+
+            </div>
+
+
+            <div
+                class="book-section"
+                data-subject="history"
+            >
+
+                <div class="section-header">
+                    <h2>🏛️ History</h2>
+                </div>
+
+                <div class="book-row" id="historyRow">
+                    <div class="loading">Loading books...</div>
+                </div>
+
+            </div>
+
+
+            <div
+                class="book-section"
+                data-subject="philosophy"
+            >
+
+                <div class="section-header">
+                    <h2>🧠 Philosophy</h2>
+                </div>
+
+                <div class="book-row" id="philosophyRow">
+                    <div class="loading">Loading books...</div>
+                </div>
+
+            </div>
+
+
+            <div
+                class="book-section"
+                data-subject="adventure"
+            >
+
+                <div class="section-header">
+                    <h2>🗺️ Adventure</h2>
+                </div>
+
+                <div class="book-row" id="adventureRow">
+                    <div class="loading">Loading books...</div>
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- =====================================================
+         BOOK MODAL
+         ===================================================== -->
+
+    <div
+        class="modal hidden"
+        id="bookModal"
+    >
+
+        <div
+            class="modal-backdrop"
+            id="modalBackdrop"
+        ></div>
+
+        <div class="modal-content">
+
+            <button
+                class="modal-close"
+                id="modalClose"
+            >
+                ×
+            </button>
+
+            <div class="modal-body">
+
+                <div class="modal-cover-container">
+
+                    <img
+                        id="modalCover"
+                        class="modal-cover"
+                        src=""
+                        alt="Book cover"
+                    >
+
+                </div>
+
+
+                <div class="modal-info">
+
+                    <div class="modal-label">
+                        BOOK
+                    </div>
+
+                    <h2 id="modalTitle">
+                        Book Title
+                    </h2>
+
+                    <h3 id="modalAuthor">
+                        Author
+                    </h3>
+
+                    <p
+                        class="modal-year"
+                        id="modalYear"
+                    >
+                        First published:
+                    </p>
+
+                    <div class="description-container">
+
+                        <h4>
+                            About this book
+                        </h4>
+
+                        <p id="modalDescription">
+                            Loading description...
+                        </p>
+
+                    </div>
+
+                    <!-- ONLY SEARCHED BOOKS GET THIS BUTTON -->
+
+                    <button
+                        id="recommendButton"
+                        class="recommend-button hidden"
+                    >
+                        ✨ Get AI Recommendations
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- =================================================
+                 RECOMMENDATIONS
+                 ================================================= -->
+
+            <div
+                class="recommendation-section hidden"
+                id="recommendationSection"
+            >
+
+                <h3>
+                    ✨ You May Also Like
+                </h3>
+
+                <div
+                    class="recommendation-row"
+                    id="recommendationRow"
+                ></div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- =====================================================
+         JAVASCRIPT
+         ================================================= -->
+
+    <script src="script.js"></script>
+
+</body>
+</html>

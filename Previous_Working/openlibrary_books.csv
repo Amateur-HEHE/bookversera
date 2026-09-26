@@ -1,0 +1,801 @@
+Title,Author,Year,Cover ID,Subject,Book ID
+Pride and Prejudice,Jane Austen,1813,14348537.0,fiction,/works/OL66554W
+Alice's Adventures in Wonderland,Lewis Carroll,1865,10527843.0,fiction,/works/OL138052W
+A Christmas Carol,Charles Dickens,1843,12875748.0,fiction,/works/OL32466W
+The Picture of Dorian Gray,Oscar Wilde,1890,14314858.0,fiction,/works/OL8193416W
+Wuthering Heights,Emily Brontë,1846,12818862.0,fiction,/works/OL21177W
+Adventures of Huckleberry Finn,Mark Twain,1876,8157718.0,fiction,/works/OL53908W
+The Scarlet Letter,Nathaniel Hawthorne,1800,5654516.0,fiction,/works/OL455305W
+Robinson Crusoe,Daniel Defoe,1686,368541.0,fiction,/works/OL45089W
+Hamlet,William Shakespeare,1603,8281954.0,fiction,/works/OL9170454W
+Emma,Jane Austen,1815,9278312.0,fiction,/works/OL66513W
+Oliver Twist,Charles Dickens,1822,13300802.0,fiction,/works/OL8193478W
+"Frankenstein; or, The Modern Prometheus",Mary Shelley,1818,12356249.0,fiction,/works/OL450063W
+Sense and Sensibility,Jane Austen,1811,9278292.0,fiction,/works/OL66562W
+A Tale of Two Cities,Charles Dickens,1800,13301713.0,fiction,/works/OL8193465W
+The Wonderful Wizard of Oz,L. Frank Baum,1899,552443.0,fiction,/works/OL18417W
+Treasure Island,Robert Louis Stevenson,1880,13859660.0,fiction,/works/OL24034W
+Dracula,Bram Stoker,1897,12216503.0,fiction,/works/OL85892W
+Little Women,Louisa May Alcott,1848,8775559.0,fiction,/works/OL29983W
+Macbeth,William Shakespeare,1508,872432.0,fiction,/works/OL258902W
+Othello,William Shakespeare,1622,7165018.0,fiction,/works/OL258850W
+Gulliver's Travels,Jonathan Swift,1726,12717083.0,fiction,/works/OL20600W
+The Call of the Wild,Jack London,1903,12393037.0,fiction,/works/OL14942956W
+King Lear,William Shakespeare,1608,7420452.0,fiction,/works/OL259026W
+The Secret Garden,Frances Hodgson Burnett,1911,12622062.0,fiction,/works/OL69612W
+Don Quijote de la Mancha,Miguel de Cervantes Saavedra,1600,14428305.0,fiction,/works/OL503666W
+Madame Bovary,Gustave Flaubert,1856,12993424.0,fiction,/works/OL893707W
+The Art of War,孙武 (Sun Tzu),1900,4849549.0,fiction,/works/OL244537W
+Julius Caesar,William Shakespeare,1656,7901303.0,fiction,/works/OL362702W
+A Midsummer Night's Dream,William Shakespeare,1600,7205924.0,fiction,/works/OL259010W
+Great Expectations,Charles Dickens,1861,13322313.0,fiction,/works/OL8721462W
+A Study in Scarlet,Arthur Conan Doyle,1887,13405534.0,fiction,/works/OL262496W
+The Prince,Niccolò Machiavelli,1515,12726168.0,fiction,/works/OL1089297W
+Through the Looking-Glass,Lewis Carroll,1865,11272464.0,fiction,/works/OL151406W
+The Wind in the Willows,Kenneth Grahame,1908,13335427.0,fiction,/works/OL28570037W
+La Divina Commedia,Dante Alighieri,1472,11621024.0,fiction,/works/OL93082W
+Анна Каренина,Лев Толстой,1876,2560652.0,fiction,/works/OL267096W
+The Hound of the Baskervilles,Arthur Conan Doyle,1900,8063264.0,fiction,/works/OL262454W
+Anne of Green Gables,Lucy Maud Montgomery,1908,14641084.0,fiction,/works/OL77746W
+Persuasion,Jane Austen,1789,12824691.0,fiction,/works/OL66544W
+The Great Gatsby,F. Scott Fitzgerald,1920,10590366.0,fiction,/works/OL468431W
+Преступление и наказание,Fiódor Dostoievski,1866,9411873.0,fiction,/works/OL166894W
+Jane Eyre,Charlotte Brontë,1847,8235363.0,fiction,/works/OL1095427W
+The Time Machine,H. G. Wells,1895,9009316.0,fiction,/works/OL52267W
+Walden,Henry David Thoreau,1854,11248037.0,fiction,/works/OL55649W
+Three Men in a Boat (to say nothing of the dog),Jerome Klapka Jérôme,1889,8243006.0,fiction,/works/OL1793164W
+The Adventures of Sherlock Holmes [12 stories],Arthur Conan Doyle,1892,6717853.0,fiction,/works/OL262421W
+Moby Dick,Herman Melville,1851,10544254.0,fiction,/works/OL102749W
+Moll Flanders,Daniel Defoe,1722,12997559.0,fiction,/works/OL45139W
+Mansfield Park,Jane Austen,1814,14618737.0,fiction,/works/OL66530W
+King Solomon's Mines,H. Rider Haggard,1876,8665393.0,fiction,/works/OL17448W
+The Man Who Was Thursday,Gilbert Keith Chesterton,1908,8242857.0,fiction,/works/OL76487W
+Les trois Mousquetaires,Alexandre Dumas,1844,11929973.0,fiction,/works/OL36861W
+The Mysterious Affair at Styles,Agatha Christie,1920,13699667.0,fiction,/works/OL472715W
+Ἰλιάς,Ὅμηρος,1505,7083790.0,fiction,/works/OL61981W
+Candide,Voltaire,1746,12736044.0,fiction,/works/OL100672W
+Ὀδύσσεια,Ὅμηρος,1488,9045853.0,fiction,/works/OL61982W
+Coriolanus,William Shakespeare,1734,8222112.0,fiction,/works/OL362166W
+Hard Times,Charles Dickens,1854,8236916.0,fiction,/works/OL8193387W
+The Legend of Sleepy Hollow,Washington Irving,1820,8243083.0,fiction,/works/OL63985W
+Northanger Abbey,Jane Austen,1818,12567961.0,fiction,/works/OL66534W
+The Moonstone,Wilkie Collins,1800,8237041.0,fiction,/works/OL176092W
+Ethan Frome,Edith Wharton,1910,8303480.0,fiction,/works/OL98501W
+Dubliners,James Joyce,1914,8216412.0,fiction,/works/OL86320W
+Troilus and Cressida,William Shakespeare,1609,8789523.0,fiction,/works/OL362685W
+Captains Courageous,Rudyard Kipling,1896,12819857.0,fiction,/works/OL19842W
+The Railway Children,Edith Nesbit,1900,13241123.0,fiction,/works/OL99509W
+Romeo and Juliet,William Shakespeare,1597,8257991.0,fiction,/works/OL362427W
+The Sign of Four,Arthur Conan Doyle,1889,9247987.0,fiction,/works/OL262438W
+"Henry IV, Part 1",William Shakespeare,1598,116833.0,fiction,/works/OL1348798W
+Metamorphosis,Franz Kafka,1915,12820198.0,fiction,/works/OL498556W
+Five Children and It,Edith Nesbit,1905,28174.0,fiction,/works/OL99499W
+Antony and Cleopatra,William Shakespeare,1734,8222096.0,fiction,/works/OL362695W
+Kim,Rudyard Kipling,1901,1053011.0,fiction,/works/OL19908W
+The Thirty-Nine Steps,John Buchan,1915,93020.0,fiction,/works/OL76524W
+The Adventures of Tom Sawyer,Mark Twain,1817,12043351.0,fiction,/works/OL53919W
+The Last of the Mohicans,James Fenimore Cooper,1826,8236937.0,fiction,/works/OL77958W
+The Innocence of Father Brown (Father Brown Mystery),Gilbert Keith Chesterton,1583,94081.0,fiction,/works/OL76341W
+David Copperfield,Charles Dickens,1800,1048892.0,fiction,/works/OL8662242W
+Cymbeline,William Shakespeare,1734,8997203.0,fiction,/works/OL258656W
+King Richard II,William Shakespeare,1597,9069548.0,fiction,/works/OL362665W
+Записки изъ подполья,Fiódor Dostoievski,1864,10445973.0,fiction,/works/OL21025633W
+My Ántonia,Willa Cather,1818,8369013.0,fiction,/works/OL12791W
+The Old Curiosity Shop,Charles Dickens,1800,13119794.0,fiction,/works/OL14869167W
+Anne's House of Dreams,Lucy Maud Montgomery,1917,14640440.0,fiction,/works/OL77764W
+All's Well That Ends Well,William Shakespeare,1734,7338455.0,fiction,/works/OL362676W
+The Merchant of Venice,William Shakespeare,1600,7182819.0,fiction,/works/OL258758W
+Anne of Avonlea,Lucy Maud Montgomery,1909,14638062.0,fiction,/works/OL77744W
+The Tempest,William Shakespeare,1611,8155661.0,fiction,/works/OL362699W
+The Secret Adversary,Agatha Christie,1922,14590159.0,fiction,/works/OL471789W
+πολιτεία,Plato,1554,14418448.0,fiction,/works/OL51831W
+A Connecticut Yankee in King Arthur's Court,Mark Twain,1889,9168732.0,fiction,/works/OL54031W
+Der Proceß,Franz Kafka,1825,997423.0,fiction,/works/OL498463W
+Anne of the Island,Lucy Maud Montgomery,1915,14639028.0,fiction,/works/OL77748W
+Two Gentlemen of Verona,William Shakespeare,1632,8791306.0,fiction,/works/OL362671W
+The Cricket on the Hearth,Charles Dickens,1846,9284868.0,fiction,/works/OL14868783W
+A Portrait of the Artist as a Young Man,"James Joyce, James Joyce, james joyce, J Joyce",1818,9328410.0,fiction,/works/OL86343W
+Richard III,William Shakespeare,1597,9020720.0,fiction,/works/OL362684W
+The Mill on the Floss,"George Eliot, Rosalyn Landor, Sue Saunders, Julius Frese",1800,8236884.0,fiction,/works/OL20938W
+The Valley of Fear,Arthur Conan Doyle,1914,8350377.0,fiction,/works/OL262505W
+The Prince and the Pauper,Mark Twain,1881,8221267.0,fiction,/works/OL53994W
+Alice's Adventures in Wonderland,Lewis Carroll,1865,10527843.0,fantasy,/works/OL138052W
+The Wonderful Wizard of Oz,L. Frank Baum,1899,552443.0,fantasy,/works/OL18417W
+Treasure Island,Robert Louis Stevenson,1880,13859660.0,fantasy,/works/OL24034W
+Gulliver's Travels,Jonathan Swift,1726,12717083.0,fantasy,/works/OL20600W
+A Midsummer Night's Dream,William Shakespeare,1600,7205924.0,fantasy,/works/OL259010W
+The Prince,Niccolò Machiavelli,1515,12726168.0,fantasy,/works/OL1089297W
+Through the Looking-Glass,Lewis Carroll,1865,11272464.0,fantasy,/works/OL151406W
+The Wind in the Willows,Kenneth Grahame,1908,13335427.0,fantasy,/works/OL28570037W
+Five Children and It,Edith Nesbit,1905,28174.0,fantasy,/works/OL99499W
+The Princess and the Goblin,George MacDonald,1872,14363454.0,fantasy,/works/OL15449W
+The Lost World,Arthur Conan Doyle,1900,8231444.0,fantasy,/works/OL262460W
+Nineteen Eighty-Four,George Orwell,1949,9267242.0,fantasy,/works/OL1168083W
+The Marvelous Land of Oz,L. Frank Baum,1904,12648656.0,fantasy,/works/OL18396W
+Ozma of Oz,L. Frank Baum,1907,12648657.0,fantasy,/works/OL18415W
+Le petit prince,Antoine de Saint-Exupéry,1943,10708272.0,fantasy,/works/OL10263W
+The Emerald City of Oz,L. Frank Baum,1910,1473556.0,fantasy,/works/OL18409W
+Dorothy and the Wizard in Oz,L. Frank Baum,1908,12648659.0,fantasy,/works/OL18412W
+The Lost Princess of Oz,L. Frank Baum,1917,854819.0,fantasy,/works/OL18411W
+The Story of the Amulet,Edith Nesbit,1905,13241470.0,fantasy,/works/OL407476W
+The Complete Life and Adventures of Santa Claus,L. Frank Baum,1902,1979059.0,fantasy,/works/OL262358W
+Alice's Adventures in Wonderland / Through the Looking Glass,Lewis Carroll,1889,8595966.0,fantasy,/works/OL151411W
+The Road to Oz,L. Frank Baum,1909,8243922.0,fantasy,/works/OL262390W
+The Sea Fairies,L. Frank Baum,1911,1814237.0,fantasy,/works/OL262384W
+Baum's American Fairy Tales,L. Frank Baum,1901,709869.0,fantasy,/works/OL262341W
+Sky Island,L. Frank Baum,1912,2752804.0,fantasy,/works/OL262385W
+The Scarecrow of Oz,L. Frank Baum,1915,431586.0,fantasy,/works/OL262352W
+The Patchwork Girl of Oz,L. Frank Baum,1913,1473369.0,fantasy,/works/OL18405W
+The Magic of Oz,L. Frank Baum,1919,5071176.0,fantasy,/works/OL262380W
+Tik-Tok of Oz,L. Frank Baum,1914,8243277.0,fantasy,/works/OL18414W
+Rinkitink in Oz,L. Frank Baum,1916,765814.0,fantasy,/works/OL262376W
+The Hobbit,J.R.R. Tolkien,1937,14627509.0,fantasy,/works/OL27482W
+The Enchanted Castle,Edith Nesbit,1907,6644514.0,fantasy,/works/OL99541W
+Phantastes,George MacDonald,1850,14358814.0,fantasy,/works/OL15450W
+The Tin Woodman of Oz,L. Frank Baum,1918,755973.0,fantasy,/works/OL262381W
+A Princess of Mars,Edgar Rice Burroughs,1912,207226.0,fantasy,/works/OL1418187W
+Glinda of Oz,L. Frank Baum,1920,758814.0,fantasy,/works/OL262391W
+The Magic City,Edith Nesbit,1910,1673063.0,fantasy,/works/OL99535W
+Peter Pan,J. M. Barrie,1911,8237052.0,fantasy,/works/OL462007W
+The Phoenix and the Carpet,Edith Nesbit,1903,902122.0,fantasy,/works/OL99539W
+Le avventure di Pinocchio,Carlo Collodi,1883,8597022.0,fantasy,/works/OL1527356W
+Le Tour du Monde en Quatre-Vingts Jours,Jules Verne,1872,6976035.0,fantasy,/works/OL1100007W
+Harry Potter and the Philosopher's Stone,J. K. Rowling,1997,15155833.0,fantasy,/works/OL82563W
+The description of a new world,"Margaret Cavendish, Duchess of Newcastle",1666,103235.0,fantasy,/works/OL1112413W
+"News from nowhere, or, An epoch of rest, being some chapters from a utopian romance",William Morris,1890,338173.0,fantasy,/works/OL47721W
+À rebours,Joris-Karl Huysmans,1884,13170209.0,fantasy,/works/OL2239396W
+The Secret Agent,Joseph Conrad,1907,8239401.0,fantasy,/works/OL39108W
+Puck of Pook's Hill,Rudyard Kipling,1900,8242296.0,fantasy,/works/OL20165W
+The Fellowship of the Ring,J.R.R. Tolkien,1954,14627060.0,fantasy,/works/OL27513W
+Harry Potter and the Chamber of Secrets,J. K. Rowling,1998,15158664.0,fantasy,/works/OL82537W
+The Two Towers,J.R.R. Tolkien,1954,14627564.0,fantasy,/works/OL27479W
+The Enchanted Island of Yew,L. Frank Baum,1903,1755697.0,fantasy,/works/OL262388W
+The Return of the King,J.R.R. Tolkien,1950,14627062.0,fantasy,/works/OL27455W
+After London,Richard Jefferies,1885,2841895.0,fantasy,/works/OL1176822W
+Harry Potter and the Prisoner of Azkaban,J. K. Rowling,1999,10580435.0,fantasy,/works/OL82536W
+The Royal Book of Oz,Ruth Plumly Thompson,1921,709865.0,fantasy,/works/OL1156218W
+Jurgen,James Branch Cabell,1919,5553063.0,fantasy,/works/OL6585796W
+The wood beyond the world,William Morris,1894,5895767.0,fantasy,/works/OL47752W
+Harry Potter and the Order of the Phoenix,J. K. Rowling,2003,15158666.0,fantasy,/works/OL82548W
+Charlie and the Chocolate Factory,Roald Dahl,1964,12459564.0,fantasy,/works/OL45790W
+Harry Potter and the Goblet of Fire,J. K. Rowling,2000,12059372.0,fantasy,/works/OL82560W
+Мастер и Маргарита,Михаил Афанасьевич Булгаков,1966,12947486.0,fantasy,/works/OL676009W
+Sylvie and Bruno,Lewis Carroll,1889,8243045.0,fantasy,/works/OL151430W
+The Moon Pool,A. Merritt,1919,9317374.0,fantasy,/works/OL4104767W
+The reluctant dragon,"Kenneth Grahame, Jim Weiss, Ernest H. Shepard, Michael Hague",1938,6557137.0,fantasy,/works/OL69602W
+The Story of Doctor Dolittle,Hugh Lofting,1920,5262289.0,fantasy,/works/OL1449046W
+The Well at the World's End,"William Morris, William Morris",1892,2404583.0,fantasy,/works/OL47750W
+The water-babies: a fairy tale for a land-baby,Charles Kingsley,1863,6062095.0,fantasy,/works/OL1130038W
+Charlotte's Web,E. B. White,1952,8461797.0,fantasy,/works/OL483391W
+Cien años de soledad,Gabriel García Márquez,1967,12627383.0,fantasy,/works/OL274505W
+Brood of the Witch-Queen,Sax Rohmer,1924,2011286.0,fantasy,/works/OL2288676W
+The Horse and His Boy,C. S. Lewis,1954,9184792.0,fantasy,/works/OL71058W
+Fifty-one tales,Lord Dunsany,1915,1979061.0,fantasy,/works/OL83881W
+Harry Potter and the Half-Blood Prince,J. K. Rowling,2005,10716273.0,fantasy,/works/OL82565W
+"The little white bird, or, Adventures in Kensington gardens",J. M. Barrie,1902,2808666.0,fantasy,/works/OL461993W
+Wet Magic,Edith Nesbit,1937,854565.0,fantasy,/works/OL99513W
+James and the Giant Peach,Roald Dahl,1961,8252454.0,fantasy,/works/OL45809W
+Peter Pan in Kensington Gardens,J. M. Barrie,1906,2977086.0,fantasy,/works/OL462123W
+The Magician's Nephew,C. S. Lewis,1955,1072931.0,fantasy,/works/OL71042W
+The Master Key,L. Frank Baum,1901,2838027.0,fantasy,/works/OL262383W
+Morning Star,H. Rider Haggard,1910,1979130.0,fantasy,/works/OL17506W
+The Voyages of Doctor Dolittle,Hugh Lofting,1922,281218.0,fantasy,/works/OL1449063W
+"The Lion, the Witch and the Wardrobe",C. S. Lewis,1950,8441376.0,fantasy,/works/OL71037W
+The house of the Wolfings,William Morris,1889,12177594.0,fantasy,/works/OL47670W
+The Silmarillion,"J.R.R. Tolkien, Christopher Tolkien",1977,14627042.0,fantasy,/works/OL27495W
+The Crock of Gold,James Stephens,1912,5548056.0,fantasy,/works/OL1154817W
+The BFG,Roald Dahl,1732,9176033.0,fantasy,/works/OL45885W
+Northern Lights,Philip Pullman,1995,8747028.0,fantasy,/works/OL28988W
+Prince Caspian,C. S. Lewis,1951,45897.0,fantasy,/works/OL71069W
+Harry Potter and the Deathly Hallows,J. K. Rowling,2007,15158660.0,fantasy,/works/OL82586W
+The Silver Chair,C. S. Lewis,1953,6950992.0,fantasy,/works/OL71078W
+A Game of Thrones,George R. R. Martin,1996,9269962.0,fantasy,/works/OL257943W
+Lost Horizon,James Hilton,1933,4656607.0,fantasy,/works/OL2455093W
+Where the Wild Things Are,Maurice Sendak,1963,50842.0,fantasy,/works/OL2568879W
+Little Wizard stories of Oz,L. Frank Baum,1914,430876.0,fantasy,/works/OL18394W
+Catching Fire,Suzanne Collins,2009,12646539.0,fantasy,/works/OL5735360W
+A strange manuscript found in a copper cylinder,James De Mille,1888,5647709.0,fantasy,/works/OL96167W
+Mary Poppins,Pamela L. Travers,1934,7421.0,fantasy,/works/OL262141W
+Watership Down,"Richard Adams, Richard Adams",1972,6450196.0,fantasy,/works/OL2096536W
+"Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte",Michael Ende,1973,8574580.0,fantasy,/works/OL2271626W
+The Lightning Thief,Rick Riordan,2005,7239831.0,fantasy,/works/OL492658W
+Alice's Adventures in Wonderland,Lewis Carroll,1865,10527843.0,science_fiction,/works/OL138052W
+"Frankenstein; or, The Modern Prometheus",Mary Shelley,1818,12356249.0,science_fiction,/works/OL450063W
+The Wonderful Wizard of Oz,L. Frank Baum,1899,552443.0,science_fiction,/works/OL18417W
+Dracula,Bram Stoker,1897,12216503.0,science_fiction,/works/OL85892W
+The Time Machine,H. G. Wells,1895,9009316.0,science_fiction,/works/OL52267W
+The Lost World,Arthur Conan Doyle,1900,8231444.0,science_fiction,/works/OL262460W
+Nineteen Eighty-Four,George Orwell,1949,9267242.0,science_fiction,/works/OL1168083W
+Brave New World,Aldous Huxley,1932,8231823.0,science_fiction,/works/OL64365W
+The Jewel of Seven Stars,Bram Stoker,1902,2760301.0,science_fiction,/works/OL85891W
+The Iron Heel,Jack London,1907,8243314.0,science_fiction,/works/OL74502W
+Flatland,Edwin Abbott Abbott,1884,10069547.0,science_fiction,/works/OL118388W
+The Invisible Man,H. G. Wells,0,6419199.0,science_fiction,/works/OL52266W
+The Princess and Curdie,George MacDonald,1832,14357835.0,science_fiction,/works/OL15448W
+The War of the Worlds,H. G. Wells,0,36314.0,science_fiction,/works/OL52114W
+A Princess of Mars,Edgar Rice Burroughs,1912,207226.0,science_fiction,/works/OL1418187W
+The Napoleon of Notting Hill,Gilbert Keith Chesterton,1904,6980094.0,science_fiction,/works/OL76473W
+The Last Man,Mary Shelley,1826,882662.0,science_fiction,/works/OL450124W
+Le Tour du Monde en Quatre-Vingts Jours,Jules Verne,1872,6976035.0,science_fiction,/works/OL1100007W
+The warlord of Mars #3,Edgar Rice Burroughs,1914,207141.0,science_fiction,/works/OL1418137W
+Vingt mille lieues sous les mers,Jules Verne,1870,6573517.0,science_fiction,/works/OL1099280W
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1875,295773.0,science_fiction,/works/OL24156W
+The description of a new world,"Margaret Cavendish, Duchess of Newcastle",1666,103235.0,science_fiction,/works/OL1112413W
+"News from nowhere, or, An epoch of rest, being some chapters from a utopian romance",William Morris,1890,338173.0,science_fiction,/works/OL47721W
+The Poison Belt,Arthur Conan Doyle,1913,5788361.0,science_fiction,/works/OL262596W
+The Gods of Mars,Edgar Rice Burroughs,1918,207132.0,science_fiction,/works/OL1417942W
+The Chessmen of Mars,Edgar Rice Burroughs,1922,1930755.0,science_fiction,/works/OL1418244W
+The Machine Stops,E. M. Forster,1909,7793883.0,science_fiction,/works/OL88800W
+The Island of Dr. Moreau,H. G. Wells,1896,968312.0,science_fiction,/works/OL381550W
+Gullivar of Mars,Edwin Lester Linden Arnold,1964,573770.0,science_fiction,/works/OL5960415W
+After London,Richard Jefferies,1885,2841895.0,science_fiction,/works/OL1176822W
+Fahrenheit 451,Ray Bradbury,1953,12993656.0,science_fiction,/works/OL103123W
+The Coming Race,"Edward Bulwer Lytton, Baron Lytton",1871,2751882.0,science_fiction,/works/OL61825W
+The wood beyond the world,William Morris,1894,5895767.0,science_fiction,/works/OL47752W
+"The king of the Golden River; or, The black brothers",John Ruskin,1839,5884126.0,science_fiction,/works/OL88599W
+The Moon Pool,A. Merritt,1919,9317374.0,science_fiction,/works/OL4104767W
+At the Earth's Core,Edgar Rice Burroughs,1914,9317372.0,science_fiction,/works/OL1417907W
+In the days of the comet,H. G. Wells,1906,5783892.0,science_fiction,/works/OL52252W
+Мы,Евгений Иванович Замятин,1924,5484189.0,science_fiction,/works/OL10215W
+De la terre à la lune,Jules Verne,1865,5943556.0,science_fiction,/works/OL1099479W
+"Thuvia, Maid of Mars","Edgar Rice Burroughs, Craig Trahan, Eric King, J. Allen St. John",1916,284442.0,science_fiction,/works/OL1418128W
+Voyage au Centre de la Terre,Jules Verne,1867,5890987.0,science_fiction,/works/OL1099513W
+When the Sleeper Awakes,H. G. Wells,1899,574886.0,science_fiction,/works/OL52151W
+The food of the gods and how it came to earth,H. G. Wells,1900,314687.0,science_fiction,/works/OL52195W
+"The Beasts of Tarzan (Classic Ace SF, F-203)",Edgar Rice Burroughs,1914,2421421.0,science_fiction,/works/OL1417916W
+When the World Shook,"H. Rider Haggard, H. Haggar",1919,2976990.0,science_fiction,/works/OL17518W
+The Handmaid's Tale,Margaret Atwood,1985,8231851.0,science_fiction,/works/OL675783W
+It Can't Happen Here,Sinclair Lewis,1935,12719018.0,science_fiction,/works/OL51145W
+Dune,Frank Herbert,1965,11481354.0,science_fiction,/works/OL893414W
+R.U.R. and The insect play,"Karel Čapek, Josef Čapek",1920,4291026.0,science_fiction,/works/OL575625W
+A Clockwork Orange,Anthony Burgess,1962,14430663.0,science_fiction,/works/OL261794W
+The Hunger Games,Suzanne Collins,2008,12646537.0,science_fiction,/works/OL5735363W
+Slaughterhouse-Five,Kurt Vonnegut,1956,12727001.0,science_fiction,/works/OL98459W
+A Fighting Man Of Mars,Edgar Rice Burroughs,1931,13898460.0,science_fiction,/works/OL1418176W
+The Martian Chronicles,Ray Bradbury,1950,9346537.0,science_fiction,/works/OL103134W
+A Game of Thrones,George R. R. Martin,1996,9269962.0,science_fiction,/works/OL257943W
+The Master Mind of Mars,Edgar Rice Burroughs,1928,2889485.0,science_fiction,/works/OL1418222W
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,12986869.0,science_fiction,/works/OL2163649W
+Armageddon 2419 AD,Philip Francis Nowlan,1962,1230950.0,science_fiction,/works/OL8126453W
+Charlie and the Great Glass Elevator,Roald Dahl,1972,7893583.0,science_fiction,/works/OL45793W
+On the Beach,Nevil Shute,1957,997896.0,science_fiction,/works/OL2779754W
+Catching Fire,Suzanne Collins,2009,12646539.0,science_fiction,/works/OL5735360W
+2001,Arthur C. Clarke,1968,11344400.0,science_fiction,/works/OL17365W
+Synthetic Men of Mars,Edgar Rice Burroughs,1940,207344.0,science_fiction,/works/OL1418033W
+The First Men in the Moon,H. G. Wells,1900,8081288.0,science_fiction,/works/OL52260W
+Cinq semaines en ballon,Jules Verne,1867,8179189.0,science_fiction,/works/OL1099380W
+Little Fuzzy,H. Beam Piper,1961,1591936.0,science_fiction,/works/OL579085W
+A strange manuscript found in a copper cylinder,James De Mille,1888,5647709.0,science_fiction,/works/OL96167W
+Swords of Mars,Edgar Rice Burroughs,1936,6567528.0,science_fiction,/works/OL1418224W
+Llana of Gathol (Mars #10),Edgar Rice Burroughs,1948,12762270.0,science_fiction,/works/OL1417975W
+The Giver,Lois Lowry,1993,8352502.0,science_fiction,/works/OL1846076W
+The house behind the cedars,Charles Waddell Chesnutt,1900,605907.0,science_fiction,/works/OL112797W
+Ender's Game,Orson Scott Card,1985,12996033.0,science_fiction,/works/OL49488W
+A Wrinkle in Time,Madeleine L'Engle,1962,8709146.0,science_fiction,/works/OL41495W
+Lord of the World,"Robert Hugh Benson, Simon Vance",1907,2114295.0,science_fiction,/works/OL50103W
+The ship of Ishtar,"A. Merritt, Amelia Pérez de Villar Herranz",1924,7266552.0,science_fiction,/works/OL4104766W
+A Modern Utopia,H. G. Wells,1900,8232021.0,science_fiction,/works/OL52256W
+Dune Messiah,Frank Herbert,1969,980253.0,science_fiction,/works/OL893461W
+Foundation,Isaac Asimov,1951,14612610.0,science_fiction,/works/OL46125W
+"I, Robot",Isaac Asimov,1950,12385229.0,science_fiction,/works/OL46241W
+Mockingjay,Suzanne Collins,2010,12646459.0,science_fiction,/works/OL14908941W
+The water of the Wondrous isles,William Morris,1897,5866566.0,science_fiction,/works/OL47745W
+Deception Point,Dan Brown,2001,14553479.0,science_fiction,/works/OL76835W
+The Gunslinger,Stephen King,1976,8396638.0,science_fiction,/works/OL81628W
+Jurassic Park,Michael Crichton,1990,12882940.0,science_fiction,/works/OL46881W
+The Restaurant at the End of the Universe,Douglas Adams,1980,12714921.0,science_fiction,/works/OL2163655W
+Plague Ship,Andre Norton,1956,9839176.0,science_fiction,/works/OL473283W
+The Time Traders,Andre Norton,1958,8311641.0,science_fiction,/works/OL473477W
+Eragon,Christopher Paolini,2000,13921600.0,science_fiction,/works/OL5819895W
+The Left Hand of Darkness,Ursula K. Le Guin,1969,10618463.0,science_fiction,/works/OL59800W
+Do Androids Dream of Electric Sheep?,Philip K. Dick,1968,207515.0,science_fiction,/works/OL2172356W
+The Blind Assassin,Margaret Atwood,2000,11041760.0,science_fiction,/works/OL675698W
+Star Born,Andre Norton,1957,5542954.0,science_fiction,/works/OL473476W
+The Dead Zone,Stephen King,1979,14653991.0,science_fiction,/works/OL81630W
+Cat's Cradle,"Kurt Vonnegut, Martí Sales Sariola",1963,12709654.0,science_fiction,/works/OL98454W
+The Amber Spyglass,Philip Pullman,1999,12613246.0,science_fiction,/works/OL28996W
+La casa verde,Mario Vargas Llosa,1966,4927546.0,science_fiction,/works/OL857541W
+Junkyard Planet,"H. Beam Piper, H. Bean Piper",1631,1861004.0,science_fiction,/works/OL579075W
+A Wizard of Earthsea,Ursula K. Le Guin,1968,13617691.0,science_fiction,/works/OL59798W
+The Stand,Stephen King,1978,9255992.0,science_fiction,/works/OL81618W
+Divergent,Veronica Roth,2010,13274634.0,science_fiction,/works/OL15719630W
+The Hound of the Baskervilles,Arthur Conan Doyle,1900,8063264.0,mystery,/works/OL262454W
+Преступление и наказание,Fiódor Dostoievski,1866,9411873.0,mystery,/works/OL166894W
+The Adventures of Sherlock Holmes [12 stories],Arthur Conan Doyle,1892,6717853.0,mystery,/works/OL262421W
+The Man Who Was Thursday,Gilbert Keith Chesterton,1908,8242857.0,mystery,/works/OL76487W
+The Mysterious Affair at Styles,Agatha Christie,1920,13699667.0,mystery,/works/OL472715W
+The Secret Adversary,Agatha Christie,1922,14590159.0,mystery,/works/OL471789W
+The mystery of Edwin Drood,"Charles Dickens, Samuel Luke Fildes, Charles Bernard Derosne, TC, John Cuming Walters",1870,8243336.0,mystery,/works/OL8763148W
+His Last Bow [8 stories],Arthur Conan Doyle,1917,8243267.0,mystery,/works/OL262452W
+Heart of Darkness,Joseph Conrad,1899,12307847.0,mystery,/works/OL38663W
+The Riddle of the Sands,Erskine Childers,1903,2293974.0,mystery,/works/OL23797W
+Greenmantle,John Buchan,1915,93023.0,mystery,/works/OL76501W
+Basil,Wilkie Collins,1852,12968342.0,mystery,/works/OL176086W
+Harry Potter and the Philosopher's Stone,J. K. Rowling,1997,15155833.0,mystery,/works/OL82563W
+The Law and the Lady,"Wilkie Collins, Camille de Cendrey, Jenny Bourne Taylor",1875,6396941.0,mystery,/works/OL176081W
+Trent's Last Case,E. C. Bentley,1900,118583.0,mystery,/works/OL1315930W
+Prester John,John Buchan,1900,5981967.0,mystery,/works/OL76595W
+Whose Body?,Dorothy L. Sayers,1923,8311819.0,mystery,/works/OL2234917W
+The Black Robe,Wilkie Collins,1881,1759983.0,mystery,/works/OL176068W
+Murder on the Links,Agatha Christie,1923,14582832.0,mystery,/works/OL472073W
+Armadale,Wilkie Collins,1866,780215.0,mystery,/works/OL176085W
+Fifty Candles,Earl Derr Biggers,1926,1956467.0,mystery,/works/OL6438811W
+The Angel of Terror,Edgar Wallace,1923,1814681.0,mystery,/works/OL1518053W
+Murder on the Orient Express,Agatha Christie,1933,11100465.0,mystery,/works/OL471576W
+No name,Wilkie Collins,1862,103261.0,mystery,/works/OL176090W
+The Amateur Cracksman,Ernest William Hornung,1899,2895793.0,mystery,/works/OL250352W
+The Murder of Roger Ackroyd,Agatha Christie,1926,13151356.0,mystery,/works/OL471932W
+Poirot investigates,Agatha Christie,1924,13670505.0,mystery,/works/OL471940W
+The legacy of Cain,Wilkie Collins,1859,494040.0,mystery,/works/OL176076W
+The Da Vinci Code,Dan Brown,2003,9255229.0,mystery,/works/OL76837W
+The After House,Mary Roberts Rinehart,1914,2757973.0,mystery,/works/OL137397W
+The Man in the Brown Suit,Agatha Christie,1924,11153508.0,mystery,/works/OL472549W
+Death on the Nile,Agatha Christie,1937,14066646.0,mystery,/works/OL471724W
+The Circular Staircase,Mary Roberts Rinehart,1908,2761207.0,mystery,/works/OL137396W
+The Paradise Mystery,Joseph Smith Fletcher,1920,1814712.0,mystery,/works/OL1797752W
+Tales of Terror and Mystery,Arthur Conan Doyle,1963,8311421.0,mystery,/works/OL262586W
+The dead secret,Wilkie Collins,1857,14305247.0,mystery,/works/OL176087W
+The Lodger,Marie Belloc Lowndes,1913,696674.0,mystery,/works/OL1172118W
+The Queen of Hearts,Wilkie Collins,1859,1861500.0,mystery,/works/OL176073W
+R. Holmes & Co.,John Kendrick Bangs,1906,5716647.0,mystery,/works/OL1868679W
+L'affaire Lerouge,Émile Gaboriau,1800,4486242.0,mystery,/works/OL1546094W
+Harry Potter and the Deathly Hallows,J. K. Rowling,2007,15158660.0,mystery,/works/OL82586W
+The A.B.C. Murders,Agatha Christie,1936,14573514.0,mystery,/works/OL471509W
+4:50 from Paddington,Agatha Christie,1957,13151352.0,mystery,/works/OL471500W
+The daffodil murder,Edgar Wallace,1921,2895230.0,mystery,/works/OL1517945W
+The Mysterious Key And What It Opened,Louisa May Alcott,2004,1815112.0,mystery,/works/OL30040W
+Dead Men Tell No Tales,Ernest William Hornung,1899,2890645.0,mystery,/works/OL250350W
+The Murder at the Vicarage,Agatha Christie,1930,12996560.0,mystery,/works/OL471895W
+A Murder Is Announced,Agatha Christie,1950,14578204.0,mystery,/works/OL471771W
+The Body in the Library,Agatha Christie,1942,12855259.0,mystery,/works/OL471610W
+The Mirror Crack'd from Side to Side,Agatha Christie,1960,10561150.0,mystery,/works/OL471990W
+The Guilty River,Wilkie Collins,1886,5723048.0,mystery,/works/OL176066W
+The Mystery of the Blue Train,Agatha Christie,1928,14575533.0,mystery,/works/OL471603W
+The Big Four,Agatha Christie,1927,12996529.0,mystery,/works/OL471947W
+The Secret of Chimneys,Agatha Christie,1925,12996574.0,mystery,/works/OL472542W
+In Cold Blood,Truman Capote,1965,228066.0,mystery,/works/OL1992198W
+Evil Under the Sun,Agatha Christie,1941,13671433.0,mystery,/works/OL472049W
+The house by the church-yard,Sheridan Le Fanu,1863,3950063.0,mystery,/works/OL2895540W
+Sleeping Murder,Agatha Christie,1940,10247294.0,mystery,/works/OL472250W
+The Moving Finger,Agatha Christie,1942,13672855.0,mystery,/works/OL471905W
+The Talleyrand Maxim,Joseph Smith Fletcher,1920,1845490.0,mystery,/works/OL1797757W
+Crooked House,Agatha Christie,1949,14570595.0,mystery,/works/OL471891W
+The Dead Alive,Wilkie Collins,1874,2908796.0,mystery,/works/OL176060W
+At Bertram's Hotel,Agatha Christie,1965,6379981.0,mystery,/works/OL265415W
+They Do It with Mirrors,Agatha Christie,1952,10249524.0,mystery,/works/OL471871W
+After the Funeral,Agatha Christie,1953,12996535.0,mystery,/works/OL471943W
+Lord Edgware Dies,Agatha Christie,1933,9492111.0,mystery,/works/OL471767W
+Curtain,Agatha Christie,1975,12387503.0,mystery,/works/OL472470W
+Five Little Pigs,Agatha Christie,1942,14578138.0,mystery,/works/OL471666W
+Appointment with Death,Agatha Christie,1938,14561660.0,mystery,/works/OL471667W
+Peril at End House,Agatha Christie,1932,12996556.0,mystery,/works/OL472165W
+Hercule Poirot's Christmas,Agatha Christie,1939,12855074.0,mystery,/works/OL471841W
+Elephants Can Remember,Agatha Christie,1969,11165070.0,mystery,/works/OL471776W
+"At the Villa Rose, in Four acts","A. E. W. Mason, A. E. Mason, A. E. W. Mason",1900,2009344.0,mystery,/works/OL532399W
+Murder in Mesopotamia,Agatha Christie,1936,12855104.0,mystery,/works/OL472572W
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,2002,7890719.0,mystery,/works/OL2965102W
+The Hollow,Agatha Christie,1946,13679064.0,mystery,/works/OL472526W
+Cards on the Table,Agatha Christie,1936,6469172.0,mystery,/works/OL471637W
+"I Say No Or, The Love-Letter Answered And Other Stories",Wilkie Collins,1800,2866196.0,mystery,/works/OL176023W
+A Caribbean Mystery,Agatha Christie,1964,14578132.0,mystery,/works/OL472458W
+Death in the Clouds,Agatha Christie,1935,11433305.0,mystery,/works/OL472324W
+The Franchise Affair (Inspector Alan Grant #3),Josephine Tey,1948,14104.0,mystery,/works/OL80946W
+"One, Two, Buckle My Shoe",Agatha Christie,1940,14586349.0,mystery,/works/OL471702W
+Nemesis,Agatha Christie,1970,10249139.0,mystery,/works/OL472594W
+The Evil Genius. A Domestis Story,Wilkie Collins,1800,2739893.0,mystery,/works/OL176021W
+Murder in Three Acts,Agatha Christie,1934,6874620.0,mystery,/works/OL471765W
+Hallowe'en Party,Agatha Christie,1969,11160095.0,mystery,/works/OL471832W
+My Lady's Money,"Wilkie Collins, guzman agustin, Francisco Arellano Selma",1870,1760008.0,mystery,/works/OL176072W
+The Clocks,Agatha Christie,1963,12996554.0,mystery,/works/OL471670W
+The Frozen Deep,"Wilkie Collins, George du Maurier, James Mahoney, Charles Dickens, Richard Brydges Beechey, John Everett Millais, J. Mahony",1800,892414.0,mystery,/works/OL176074W
+Third Girl,Agatha Christie,1966,14577913.0,mystery,/works/OL472536W
+Jezebel's Daughter,Wilkie Collins,1880,2037140.0,mystery,/works/OL176075W
+The Four Pools Mystery,Jean Webster,1908,2981587.0,mystery,/works/OL4322161W
+Dumb Witness,Agatha Christie,1937,14578123.0,mystery,/works/OL472189W
+Dead Man's Folly,Agatha Christie,1956,6985969.0,mystery,/works/OL471713W
+Cat Among the Pigeons,Agatha Christie,1959,12852588.0,mystery,/works/OL471641W
+They Came to Baghdad,Agatha Christie,1951,12846782.0,mystery,/works/OL472215W
+The Bobbsey Twins,Laura Lee Hope,1904,9330264.0,mystery,/works/OL4072567W
+The Firm,John Grisham,1991,9330593.0,mystery,/works/OL76972W
+The Thirteen Problems,Agatha Christie,1932,11163587.0,mystery,/works/OL471921W
+The Green Mile,Stephen King,1996,9334567.0,mystery,/works/OL81629W
+Wuthering Heights,Emily Brontë,1846,12818862.0,romance,/works/OL21177W
+Emma,Jane Austen,1815,9278312.0,romance,/works/OL66513W
+Sense and Sensibility,Jane Austen,1811,9278292.0,romance,/works/OL66562W
+Little Women,Louisa May Alcott,1848,8775559.0,romance,/works/OL29983W
+Анна Каренина,Лев Толстой,1876,2560652.0,romance,/works/OL267096W
+The Great Gatsby,F. Scott Fitzgerald,1920,10590366.0,romance,/works/OL468431W
+Jane Eyre,Charlotte Brontë,1847,8235363.0,romance,/works/OL1095427W
+Northanger Abbey,Jane Austen,1818,12567961.0,romance,/works/OL66534W
+The Moonstone,Wilkie Collins,1800,8237041.0,romance,/works/OL176092W
+Ethan Frome,Edith Wharton,1910,8303480.0,romance,/works/OL98501W
+A Room with a View,E. M. Forster,1905,1748132.0,romance,/works/OL88813W
+"Le Comte de Monte-Cristo, II",Alexandre Dumas,1830,14566393.0,romance,/works/OL36287W
+Riders of the Purple Sage,Zane Grey,1912,872066.0,romance,/works/OL485504W
+Uncle Tom's Cabin,Harriet Beecher Stowe,1850,12728198.0,romance,/works/OL152161W
+This Side of Paradise,F. Scott Fitzgerald,1920,8243609.0,romance,/works/OL468488W
+Women in Love,D. H. Lawrence,1877,13140934.0,romance,/works/OL81294W
+Heart of Darkness,Joseph Conrad,1899,12307847.0,romance,/works/OL38663W
+She,H. Rider Haggard,1886,295537.0,romance,/works/OL17453W
+Howards End,E. M. Forster,1910,8235207.0,romance,/works/OL88881W
+Cranford,Elizabeth Cleghorn Gaskell,1853,5188445.0,romance,/works/OL1103093W
+The Portrait of a Lady,Henry James,1881,3352367.0,romance,/works/OL276365W
+Jude the Obscure,Thomas Hardy,1895,12973053.0,romance,/works/OL44986W
+"Under the Greenwood Tree or, The Mellstock quire",Thomas Hardy,1872,902186.0,romance,/works/OL44973W
+Le rouge et le noir,Stendhal,1830,8231413.0,romance,/works/OL733640W
+The Woodlanders,Thomas Hardy,1800,8243078.0,romance,/works/OL44990W
+The pioneers,James Fenimore Cooper,1800,9000512.0,romance,/works/OL77997W
+The Lone Star Ranger,Zane Grey,1914,4813849.0,romance,/works/OL485469W
+The ghost,Arnold Bennett,1907,5877895.0,romance,/works/OL109229W
+Framley Parsonage,Anthony Trollope,1861,8288051.0,romance,/works/OL109880W
+The Age of Innocence,Edith Wharton,1920,11196262.0,romance,/works/OL98491W
+Daisy Miller,Henry James,1877,6482238.0,romance,/works/OL276328W
+The Ambassadors,Henry James,1903,313610.0,romance,/works/OL276470W
+Washington Square,Henry James,1880,8243278.0,romance,/works/OL276395W
+Poirot investigates,Agatha Christie,1924,13670505.0,romance,/works/OL471940W
+The Return of the Native,Thomas Hardy,1878,8162989.0,romance,/works/OL44994W
+Death on the Nile,Agatha Christie,1937,14066646.0,romance,/works/OL471724W
+Доктор Живаго,Boris Leonidovich Pasternak,1957,1045432.0,romance,/works/OL258301W
+Fifty Shades of Grey,E. L. James,2000,12648183.0,romance,/works/OL16336633W
+Pride and Prejudice,Jane Austen,1813,13148521.0,romance,/works/OL15165350W
+Twilight,Stephenie Meyer,2005,12641977.0,romance,/works/OL5720023W
+El amor en los tiempos del cólera,Gabriel García Márquez,1985,10096404.0,romance,/works/OL274518W
+The Mystery of the Blue Train,Agatha Christie,1928,14575533.0,romance,/works/OL471603W
+Genji monogatari,Murasaki Shikibu,1900,6614001.0,romance,/works/OL2564006W
+In Cold Blood,Truman Capote,1965,228066.0,romance,/works/OL1992198W
+Comus,John Milton,1738,5622287.0,romance,/works/OL810989W
+The Godfather,Mario Puzo,1969,6507069.0,romance,/works/OL1673205W
+Pelham,"Edward Bulwer Lytton, Baron Lytton",1828,8974809.0,romance,/works/OL8088746W
+Abel Sánchez,Miguel de Unamuno,1917,4902483.0,romance,/works/OL503503W
+The Eustace diamonds,Anthony Trollope,1872,8242844.0,romance,/works/OL109873W
+Jamaica Inn,Daphne du Maurier,1936,8765960.0,romance,/works/OL36632W
+The Last Chronicle of Barset,Anthony Trollope,1867,7334887.0,romance,/works/OL109876W
+Dead Man's Folly,Agatha Christie,1956,6985969.0,romance,/works/OL471713W
+Eclipse,Stephenie Meyer,2006,12643410.0,romance,/works/OL5720025W
+The Custom of the Country,Edith Wharton,1900,9329535.0,romance,/works/OL98585W
+Der Vorleser,Bernhard Schlink,1995,998445.0,romance,/works/OL14871157W
+New Moon,Stephenie Meyer,2006,12643406.0,romance,/works/OL5720027W
+Divergent,Veronica Roth,2010,13274634.0,romance,/works/OL15719630W
+Les Dieux Ont Soif,Anatole France,1900,1994527.0,romance,/works/OL989065W
+Sad Cypress,Agatha Christie,1939,6559532.0,romance,/works/OL471870W
+Fifty Shades Darker,E. L. James,2011,14566702.0,romance,/works/OL16550681W
+Frenchman's Creek,Daphne du Maurier,1940,893834.0,romance,/works/OL7917284W
+The Fault in Our Stars,John Green,2010,7418786.0,romance,/works/OL16444438W
+The Thorn Birds,"Colleen McCullough, Colleen McCullough",1977,8293225.0,romance,/works/OL1882556W
+Fifty Shades Freed,E. L. James,2011,14566669.0,romance,/works/OL16550682W
+The Talisman,Sir Walter Scott,1800,8239488.0,romance,/works/OL863795W
+Novels (Emma / Mansfield Park / Northanger Abbey / Persuasion / Pride and Prejudice / Sense and Sensibility),Jane Austen,1818,9276728.0,romance,/works/OL66512W
+The Horse Whisperer,Nicholas Evans,1995,14621022.0,romance,/works/OL1850341W
+The Price of Salt,Patricia Highsmith,1952,250778.0,romance,/works/OL59448W
+The well-beloved,Thomas Hardy,1897,8242184.0,romance,/works/OL44989W
+A Torre Negra,Stephen King,1991,8443630.0,romance,/works/OL81625W
+Can you forgive her?,Anthony Trollope,1800,8245499.0,romance,/works/OL109868W
+High Fidelity,Nick Hornby,1995,824359.0,romance,/works/OL1916907W
+The God of Small Things,Arundhati Roy,1997,10513792.0,romance,/works/OL1052133W
+My Secret Life,"Walter, Anonymous",1966,6685979.0,romance,/works/OL264676W
+Potterism,Rose Macaulay,1920,14830396.0,romance,/works/OL261828W
+The Wings of the Dove,Henry James,1902,8241379.0,romance,/works/OL276397W
+O mandarim,Eça de Queiroz,1889,3221009.0,romance,/works/OL846543W
+Maurice,E. M. Forster,1971,1364882.0,romance,/works/OL88877W
+Americanah,Chimamanda Ngozi Adichie,1969,8474037.0,romance,/works/OL16805415W
+The Minister's Wooing,"Harriet Beecher Stowe, Hablot Knight Browne",1800,1471330.0,romance,/works/OL152226W
+Night Over Water,Ken Follett,1981,8231779.0,romance,/works/OL1914085W
+Cidade e as serras,Eça de Queiroz,1900,8097148.0,romance,/works/OL846552W
+Nichts ist stärker als die Liebe,Danielle Steel,1981,3197725.0,romance,/works/OL19613W
+Seta,Alessandro Baricco,1920,8345075.0,romance,/works/OL876504W
+The Notebook,Nicholas Sparks,1996,7382153.0,romance,/works/OL54797W
+The Vampire Lestat,Anne Rice,1986,8579529.0,romance,/works/OL77813W
+The Duke's Children,Anthony Trollope,1880,8246240.0,romance,/works/OL109872W
+The Perks of Being a Wallflower,Stephen Chbosky,1999,14315052.0,romance,/works/OL875437W
+Paper Towns,John Green,2008,5731773.0,romance,/works/OL11822690W
+Outlander,Diana Gabaldon,1991,14428230.0,romance,/works/OL3261155W
+Ken Ward in the Jungle,Zane Grey,1912,6160786.0,romance,/works/OL485457W
+Il était une fois l'amour,Danielle Steel,1981,11650648.0,romance,/works/OL19590W
+Oryx and Crake,Margaret Atwood,2002,12507658.0,romance,/works/OL675722W
+Light a Penny Candle,Maeve Binchy,1970,5229439.0,romance,/works/OL56770W
+Royal Escape,Georgette Heyer,1938,14338940.0,romance,/works/OL4092591W
+Me Before You,Jojo Moyes,2012,14419339.0,romance,/works/OL28353073W
+Mistress of Mellyn,Eleanor Burford,1960,2310666.0,romance,/works/OL3931421W
+"Landfall, a channel story","Nevil Shute, Rob Spence",1940,9406145.0,romance,/works/OL2779743W
+The Glimpses of the Moon,Edith Wharton,1922,8277208.0,romance,/works/OL98580W
+Echoes,Maeve Binchy,1985,3344527.0,romance,/works/OL56768W
+Bible,Bible,1200,12707846.0,history,/works/OL17732W
+Pride and Prejudice,Jane Austen,1813,14348537.0,history,/works/OL66554W
+Alice's Adventures in Wonderland,Lewis Carroll,1865,10527843.0,history,/works/OL138052W
+The Picture of Dorian Gray,Oscar Wilde,1890,14314858.0,history,/works/OL8193416W
+Adventures of Huckleberry Finn,Mark Twain,1876,8157718.0,history,/works/OL53908W
+The Scarlet Letter,Nathaniel Hawthorne,1800,5654516.0,history,/works/OL455305W
+Robinson Crusoe,Daniel Defoe,1686,368541.0,history,/works/OL45089W
+Oliver Twist,Charles Dickens,1822,13300802.0,history,/works/OL8193478W
+Sense and Sensibility,Jane Austen,1811,9278292.0,history,/works/OL66562W
+A Tale of Two Cities,Charles Dickens,1800,13301713.0,history,/works/OL8193465W
+The Wonderful Wizard of Oz,L. Frank Baum,1899,552443.0,history,/works/OL18417W
+Treasure Island,Robert Louis Stevenson,1880,13859660.0,history,/works/OL24034W
+Little Women,Louisa May Alcott,1848,8775559.0,history,/works/OL29983W
+Macbeth,William Shakespeare,1508,872432.0,history,/works/OL258902W
+The Call of the Wild,Jack London,1903,12393037.0,history,/works/OL14942956W
+The Secret Garden,Frances Hodgson Burnett,1911,12622062.0,history,/works/OL69612W
+Don Quijote de la Mancha,Miguel de Cervantes Saavedra,1600,14428305.0,history,/works/OL503666W
+Madame Bovary,Gustave Flaubert,1856,12993424.0,history,/works/OL893707W
+The Art of War,孙武 (Sun Tzu),1900,4849549.0,history,/works/OL244537W
+Julius Caesar,William Shakespeare,1656,7901303.0,history,/works/OL362702W
+Great Expectations,Charles Dickens,1861,13322313.0,history,/works/OL8721462W
+The Prince,Niccolò Machiavelli,1515,12726168.0,history,/works/OL1089297W
+La Divina Commedia,Dante Alighieri,1472,11621024.0,history,/works/OL93082W
+Анна Каренина,Лев Толстой,1876,2560652.0,history,/works/OL267096W
+The Hound of the Baskervilles,Arthur Conan Doyle,1900,8063264.0,history,/works/OL262454W
+Anne of Green Gables,Lucy Maud Montgomery,1908,14641084.0,history,/works/OL77746W
+Преступление и наказание,Fiódor Dostoievski,1866,9411873.0,history,/works/OL166894W
+Jane Eyre,Charlotte Brontë,1847,8235363.0,history,/works/OL1095427W
+Three Men in a Boat (to say nothing of the dog),Jerome Klapka Jérôme,1889,8243006.0,history,/works/OL1793164W
+The Adventures of Sherlock Holmes [12 stories],Arthur Conan Doyle,1892,6717853.0,history,/works/OL262421W
+The Taming of the Shrew,William Shakespeare,1631,7889534.0,history,/works/OL362690W
+Moby Dick,Herman Melville,1851,10544254.0,history,/works/OL102749W
+Moll Flanders,Daniel Defoe,1722,12997559.0,history,/works/OL45139W
+Les trois Mousquetaires,Alexandre Dumas,1844,11929973.0,history,/works/OL36861W
+Candide,Voltaire,1746,12736044.0,history,/works/OL100672W
+Coriolanus,William Shakespeare,1734,8222112.0,history,/works/OL362166W
+Narrative of the life of Frederick Douglass,Frederick Douglass,1845,8247724.0,history,/works/OL69178W
+Twelve years a slave,Solomon Northup,1853,14856045.0,history,/works/OL78871W
+Hard Times,Charles Dickens,1854,8236916.0,history,/works/OL8193387W
+The Legend of Sleepy Hollow,Washington Irving,1820,8243083.0,history,/works/OL63985W
+The Moonstone,Wilkie Collins,1800,8237041.0,history,/works/OL176092W
+Troilus and Cressida,William Shakespeare,1609,8789523.0,history,/works/OL362685W
+The Railway Children,Edith Nesbit,1900,13241123.0,history,/works/OL99509W
+Romeo and Juliet,William Shakespeare,1597,8257991.0,history,/works/OL362427W
+"Henry IV, Part 1",William Shakespeare,1598,116833.0,history,/works/OL1348798W
+Five Children and It,Edith Nesbit,1905,28174.0,history,/works/OL99499W
+Antony and Cleopatra,William Shakespeare,1734,8222096.0,history,/works/OL362695W
+Kim,Rudyard Kipling,1901,1053011.0,history,/works/OL19908W
+The Adventures of Tom Sawyer,Mark Twain,1817,12043351.0,history,/works/OL53919W
+The Last of the Mohicans,James Fenimore Cooper,1826,8236937.0,history,/works/OL77958W
+David Copperfield,Charles Dickens,1800,1048892.0,history,/works/OL8662242W
+Cymbeline,William Shakespeare,1734,8997203.0,history,/works/OL258656W
+King Richard II,William Shakespeare,1597,9069548.0,history,/works/OL362665W
+Записки изъ подполья,Fiódor Dostoievski,1864,10445973.0,history,/works/OL21025633W
+My Ántonia,Willa Cather,1818,8369013.0,history,/works/OL12791W
+The Old Curiosity Shop,Charles Dickens,1800,13119794.0,history,/works/OL14869167W
+Anne's House of Dreams,Lucy Maud Montgomery,1917,14640440.0,history,/works/OL77764W
+The Merchant of Venice,William Shakespeare,1600,7182819.0,history,/works/OL258758W
+Anne of Avonlea,Lucy Maud Montgomery,1909,14638062.0,history,/works/OL77744W
+πολιτεία,Plato,1554,14418448.0,history,/works/OL51831W
+A Connecticut Yankee in King Arthur's Court,Mark Twain,1889,9168732.0,history,/works/OL54031W
+Anne of the Island,Lucy Maud Montgomery,1915,14639028.0,history,/works/OL77748W
+Richard III,William Shakespeare,1597,9020720.0,history,/works/OL362684W
+The Prince and the Pauper,Mark Twain,1881,8221267.0,history,/works/OL53994W
+Leaves of Grass,Walt Whitman,1855,9000447.0,history,/works/OL16333W
+Metamorfosi,"Ovid, William S. Anderson, Mary Frederick, Rolfe Humphries, John Dryden, Samuel Garth, Jack Shapiro, Ovid, Robert Squillace, Frank Justus Miller, Ovidio, Julius Ziehen, Banier (Antoine, M L'Abbe), Niklas Holzberg, Lee Fratantuono, A D Melville, Emeritus Kennedy Professor of Latin Fellow E J Kenney, Ovide, William Scovil Anderson, Stephanie McCarter, Gerhard Fink, Alexander Pope, Joseph Addison, William Congreve, Gottlieb Erdmann Gierig, Jan Minell, Pieter Rabus, Alexander Pope, Sir Samuel Garth, John Godwin, OVIDIO, Publio Nasone Ovidio, Ovidi, Xavier Mata Oroval, Claude-Pierre Goujet, Claude-Pierre Banier, Publius Ovidius Naso, Edward Brooks, Edward Ovid, Ovidius, Ernest Ensor Publius Ovidius Naso, Ovídio, Pierre Du Ryer, Publio Ovidio Nason, Johannes Minellius, Nathan Bailey, J., F., and C. Rivington (Firm), G. G. J. and J. Robinson (Paternoster-Row, London, England), Scatcherd and Whitaker, Publius Ovidius Naso, Mathieu Guillaume Thérès de Villenave, Rudolf Merkel, Ovid Giovanni Andrea Dell' Anguillara, C. Luke Soucy, Publius Ovidius Naso, Joseph Gaspard Dubois-Fontanelle, Villenave, Moriz Haupt, Otto Korn, Otto Ovid, J. J. J.J. Howard, Henry Riley, Théodose Burette, Etienne Gros, John Clarke, John Ovid, William Thane Peck, Moriz Haupt, Hermann Johannes Müller, Otto Korn, Henry T. Riley, Banier M. l'abbé, Bernard Picart, Arthur Golding, William White, William Seres, J. H. Haydon, Maximus Planudes, Jean François Boissonade, Garth, Samuel Sir, Joseph Addison, Laurence Eusden, Arthur Maynwaring, Samuel Croxall, Nahum Tate, John Gay, Freigius, Moritz Haupt, Otto Korn, Ovide Ovide, George Sewell, Ovid Vergil, Ovide (Ovid) ; Georges Lafaye, Rolfe (Translated by) Ovid and Humphries, Ernst Karl Christian Bach, Rudolf Ehwald, Ovidb C -17 or 18 a D, Daniel Crespin, Anton Zingerle, Heinrich Stefan Sedlmayer, José Carlos Fernández Corte, María Josefa Cantó Llorca, Charles Martin, Emily R. Wilson, Ovide, Henry T. Riley, translated by frank jsutus miller Ovid, Moriz Haupt P. Ovidius Naso, 43 B. C. -17 or 18 A. D. Ovid, N. C. (Nathan Covington) 180 Brooks, José-Román Bravo Díaz, Publio Ovidio Nasón, Antonio Ruiz de Elvira Prieto, Bartolomé Segura Ramos, OVIDIO; BONIFAZ NU;O, RUBEN INTRODUCION, VERSION, OVIDIO; BONIFAZ NU;O, RUBEN INTRODUCION, VERSION, Publius Ovidius Naso Ovide, OVIDE, 43 B. C. -17 A. D. or 18 A. D. Ovid, Stamperia del Seminario (Padua), Publius Ovidius Publius Ovidius Naso, Henry Thomas Riley, Publi Ovidi Nasó, Donald E. Hill, J. R. Jenkinson, K. Sara Myers, Ovid Poet, John Laney, Hermann Breitenbach, Rudolf Merkel, Rudolf Ehwald, Ange-François Fariau de Saint-Ange, Pablo Picasso, Jean Gaspard Dubois-Fontanelle, Giuseppe Zocchi, Joseph Chamonard, Diedrich Ernest Bosselaar, Thomas Farnaby, Friedrich Polle, Johannes Siebelis, Bernardino Stagnino, Carolus Vivianus, Ovide (Ovid) ,  Georges Lafaye, Garth, Samuel Sir, George Sandys, Richard Badger, Johann Raener, Henricus Glareanus, Thomas Purfoot, Charles Simmons, Lodovico Dolce, Jakob Moltzer, Ercole Ciofani, Daniel Heinsius, Nicolaas Heinsius, Pieter Burman, Johann Wilhelm Capoferrius, Charles de Massac, Raymond de Massac, George Sewell, Jakob Moltzer, Raffaele Regio, Giovanni de Buonsignore, Luca-Antonio Giunta, William Caxton, George Hibbert, Roxburghe Club, Erich Rösch, Joseph Davidson, Claude-Pierre Goujet, N. Bailey, Johannes Minellius, Banier (Antoine), Jean Matheus, Isaac Briot, Pierre Firens, Michael Faulte, Gerard Jean-Baptiste Scotin, Antoine Humblot, Virgil Solis, Vasiliĭ Maĭkov, Gerhard Lorich, Marguerite Carnec, Olivier Sers, SparkNotes, Georges Lafaye, Raphaello Regius, Josse Badius, Gottlieb Erdmann Gierig, Almeno pseud, Ēlias Tsirinkakēs, Jordi Parramon Blasco, John Clarke, Jacobus Rubeus, Henry N. Heale, William Scovil Anderson, Gianpiero Rosati, Giovanna Faranda Villa, Rossella Corti, Nicolas Renouard, Publius Vergilius Maro, Henry King, Karl Hermann Weise, Jorge de Bustamante, Pierre Bellère, Fitzwilliam, William Charles de Meuron Earl, Edward Glaser, Giovanni de' Buonsignori, Gregor Bersmann, Josse Badius, Pieter Rabus, 'Introductiones' Printer of Nebrissensis, Hannibal Gamon, Clifden, Arthur Victor Agar-Robartes Viscount, England) Lanhydrock House (Cornwall, Giovanni Andrea dell' Anguillara, Francesco Turchi, Clarke, John, Lodovico Dolce, Ovid, Banier (Antoine), Claude-Pierre Goujet, Karl Paul Otto Korn, H. J. Müller, Otto Korn, Johann Balthasar Sedkezki, Stephen Gaselee, H. F. B. Brett-Smith, Pepys Library, Raphaello Regius, Paul Brandt, Thomas Farnaby, Pierre Du Ryer, Gwilym Aneurin Tudor Davies, Ovid, 43 BCE-18, 43 BCE-18",1474,5701612.0,history,/works/OL97727W
+"Le Comte de Monte-Cristo, II",Alexandre Dumas,1830,14566393.0,history,/works/OL36287W
+Aeneis,Publius Vergilius Maro,1592,5273998.0,history,/works/OL47087W
+King Henry VIII,"William Shakespeare, John Fletcher",1670,7897086.0,history,/works/OL361246W
+The Comedy of Errors,William Shakespeare,1734,5561040.0,history,/works/OL362679W
+Riders of the Purple Sage,Zane Grey,1912,872066.0,history,/works/OL485504W
+Decamerone,Giovanni Boccaccio,1516,6073528.0,history,/works/OL7180368W
+Uncle Tom's Cabin,Harriet Beecher Stowe,1850,12728198.0,history,/works/OL152161W
+The Autobiography of Benjamin Franklin,Benjamin Franklin,1791,5647361.0,history,/works/OL26492W
+The Jungle,Upton Sinclair,1791,8231790.0,history,/works/OL114967W
+The Jewel of Seven Stars,Bram Stoker,1902,2760301.0,history,/works/OL85891W
+The Story of the Treasure Seekers,Edith Nesbit,1899,13241364.0,history,/works/OL99522W
+The Woman in White,Wilkie Collins,1859,4684227.0,history,/works/OL176045W
+"Henry VI, Part 3",William Shakespeare,1600,7182904.0,history,/works/OL258713W
+War and Peace,Лев Толстой,1845,12621906.0,history,/works/OL267171W
+The Red Badge of Courage,Stephen Crane,1855,8236915.0,history,/works/OL20844W
+Henry V,William Shakespeare,1600,7420215.0,history,/works/OL361466W
+Silas Marner,"George Eliot, John O'Connor, Mary Anne Evans, Hugh Thomson, Julius Frese",1800,9286405.0,history,/works/OL20874W
+O Pioneers!,Willa Cather,1913,8242999.0,history,/works/OL12795W
+Ulysses,James Joyce,1914,13136548.0,history,/works/OL86318W
+Goldsmith's The vicar of Wakefield,Oliver Goldsmith,1111,6720851.0,history,/works/OL890896W
+The Scarlet Pimpernel,Emma Orczy,1900,479102.0,history,/works/OL1253285W
+"Henry IV, Part 2",William Shakespeare,1600,7339581.0,history,/works/OL362697W
+The Blithedale Romance,Nathaniel Hawthorne,1852,8245179.0,history,/works/OL455512W
+Ab urbe condita,Titus Livius,1481,6657951.0,history,/works/OL1261147W
+Lorna Doone,R. D. Blackmore,1656,11673413.0,history,/works/OL3686133W
+La chartreuse de Parme,Stendhal,1800,104382.0,history,/works/OL733285W
+Heart of Darkness,Joseph Conrad,1899,12307847.0,history,/works/OL38663W
+Pollyanna,"Eleanor Hodgman Porter, Porter, Neil Reed, Lee Giles",1912,902113.0,history,/works/OL2775807W
+Orthodoxy,Gilbert Keith Chesterton,1874,6268135.0,history,/works/OL76350W
+Saint Francis of Assisi,Gilbert Keith Chesterton,1923,502618.0,history,/works/OL76399W
+Book of common prayer,"Church of England, J. A. Maurault",1537,5720552.0,history,/works/OL769120W
+Alice's Adventures in Wonderland / Through the Looking Glass,Lewis Carroll,1889,8595966.0,history,/works/OL151411W
+De rerum natura,Titus Lucretius Carus,1486,566208.0,history,/works/OL1548597W
+The Jungle Book,Rudyard Kipling,1893,3344204.0,history,/works/OL19870W
+Hamlet,William Shakespeare,1603,8281954.0,philosophy,/works/OL9170454W
+Don Quijote de la Mancha,Miguel de Cervantes Saavedra,1600,14428305.0,philosophy,/works/OL503666W
+The Art of War,孙武 (Sun Tzu),1900,4849549.0,philosophy,/works/OL244537W
+The Prince,Niccolò Machiavelli,1515,12726168.0,philosophy,/works/OL1089297W
+Through the Looking-Glass,Lewis Carroll,1865,11272464.0,philosophy,/works/OL151406W
+Walden,Henry David Thoreau,1854,11248037.0,philosophy,/works/OL55649W
+Candide,Voltaire,1746,12736044.0,philosophy,/works/OL100672W
+Записки изъ подполья,Fiódor Dostoievski,1864,10445973.0,philosophy,/works/OL21025633W
+πολιτεία,Plato,1554,14418448.0,philosophy,/works/OL51831W
+Leaves of Grass,Walt Whitman,1855,9000447.0,philosophy,/works/OL16333W
+The Canterbury Tales,"Geoffrey Chaucer, John E. Cunningham, Peter Ackroyd, Ted Stearn, V. A. Kolve, Glending Olson",1478,5767180.0,philosophy,/works/OL531767W
+Le petit prince,Antoine de Saint-Exupéry,1943,10708272.0,philosophy,/works/OL10263W
+As a man thinketh,James Allen,1902,6268048.0,philosophy,/works/OL43024W
+Tao te Ching,老子,1842,662232.0,philosophy,/works/OL45499W
+Meditations,Marcus Aurelius,1626,211529.0,philosophy,/works/OL1317211W
+Also sprach Zarathustra,Friedrich Nietzsche,1883,1017466.0,philosophy,/works/OL98130W
+Saint Francis of Assisi,Gilbert Keith Chesterton,1923,502618.0,philosophy,/works/OL76399W
+Alice's Adventures in Wonderland / Through the Looking Glass,Lewis Carroll,1889,8595966.0,philosophy,/works/OL151411W
+De rerum natura,Titus Lucretius Carus,1486,566208.0,philosophy,/works/OL1548597W
+La Poetica,Aristotle,1479,129771.0,philosophy,/works/OL151515W
+The Book of Tea,Okakura Kakuzō,1900,8245415.0,philosophy,/works/OL7095112W
+On Liberty,John Stuart Mill,1859,966821.0,philosophy,/works/OL1068091W
+Confessions,Augustine of Hippo,1482,9022521.0,philosophy,/works/OL137872W
+Nicomachean Ethics,Aristotle,1558,12593945.0,philosophy,/works/OL8273964W
+Jenseits von Gut und Böse,Friedrich Nietzsche,1885,8245356.0,philosophy,/works/OL98174W
+Pensées,"Blaise Pascal, Philippe Sellier, William Finlayson Trotter, T. S. Eliot, Blaise Perier, Margival Henri, H. F. Stewart",1670,6550324.0,philosophy,/works/OL1262495W
+Der Antichrist,Friedrich Nietzsche,1895,1759313.0,philosophy,/works/OL15692719W
+The Golden Bough,James George Frazer,1890,8876695.0,philosophy,/works/OL1159648W
+The description of a new world,"Margaret Cavendish, Duchess of Newcastle",1666,103235.0,philosophy,/works/OL1112413W
+Συμπόσιον,Plato,1559,14398918.0,philosophy,/works/OL51815W
+Dialogues Concerning Natural Religion,David Hume,1779,5704676.0,philosophy,/works/OL93568W
+An essay on man,Alexander Pope,1733,14538511.0,philosophy,/works/OL79353W
+Anthem,"Ayn Rand, classics jifara, Spectrum Spectrum Classics",1936,802982.0,philosophy,/works/OL731737W
+A Room of One's Own,Virginia Woolf,1929,6559057.0,philosophy,/works/OL39379W
+Essais,"Montaigne, Michel de",1600,104154.0,philosophy,/works/OL1086528W
+Φαίδων,Plato,1713,14400104.0,philosophy,/works/OL51805W
+The Problems of Philosophy,Bertrand Russell,1900,6947403.0,philosophy,/works/OL1088577W
+Summa Theologica,"Thomas Aquinas, Kennedy, Daniel Joseph, 1862-1930",1467,8236222.0,philosophy,/works/OL15314568W
+The Coming Race,"Edward Bulwer Lytton, Baron Lytton",1871,2751882.0,philosophy,/works/OL61825W
+Civil Disobedience,Henry David Thoreau,1800,12679584.0,philosophy,/works/OL55631W
+Bushidō,"Inazo Nitobe, Stefano Daniel, Alberto Ragagnin, Gonzalo JIMENEZ DE LA ESPADA, Peter R. Prifti, Daniel Herwitz, José Javier Fuente del Pilar, Ricard Vela Pàmies, Z. Ferri",1899,3354324.0,philosophy,/works/OL1154715W
+Poetics,Aristotle,1536,6528920.0,philosophy,/works/OL13703833W
+The Seven Lamps of Architecture,John Ruskin,1800,5790382.0,philosophy,/works/OL88638W
+Les confessions,Jean-Jacques Rousseau,1782,6371045.0,philosophy,/works/OL80592W
+Picasso,"Pablo Picasso, Jean-Louis Andral, Pierre Daix",1926,2238306.0,philosophy,/works/OL145191W
+Gorin no sho,Miyamoto Musashi,1963,6621293.0,philosophy,/works/OL3946622W
+The Theory of the Leisure Class,Thorstein Veblen,1899,5815298.0,philosophy,/works/OL1868441W
+Ἀπολογία Σωκράτους,Plato,1675,14407561.0,philosophy,/works/OL51948W
+Πολιτικά (Politiká),Aristotle,1492,1277085.0,philosophy,/works/OL16247898W
+Γοργίας,Plato,1827,14372952.0,philosophy,/works/OL51785W
+Gitanjali (song offerings),"Rabindranath Tagore, Marie Luise Gothein, William Butler Yeats",1910,8246100.0,philosophy,/works/OL308575W
+Du contrat social,Jean-Jacques Rousseau,1762,6581958.0,philosophy,/works/OL80609W
+Tractatus logico-philosophicus,"Ludwig Wittgenstein, Isidoro Reguera Pérez, Ivo Hernández, Spanish, Charles Ogden, David Francis Pears, Brian McGuinness, Luis Manuel Valdés Villanueva, Bertrand Russell",1921,5415771.0,philosophy,/works/OL1410381W
+Moralia,Plutarch,1500,5788251.0,philosophy,/works/OL723491W
+Niebla,Miguel de Unamuno,1914,147489.0,philosophy,/works/OL503589W
+Der Zauberberg,Thomas Mann,1924,2056242.0,philosophy,/works/OL14866824W
+Essays,Francis Bacon,1618,8236351.0,philosophy,/works/OL69382W
+How to Win Friends and Influence People,Dale Carnegie,1936,13314878.0,philosophy,/works/OL1063267W
+"Sesame and Lilies, three lectures","John Ruskin, Jhon Rusin",1800,526624.0,philosophy,/works/OL88547W
+"Familiar quotations; a collection of passages, phrases, and proverbs traced to their sources in ancient and modern literature",John Bartlett,1855,4991649.0,philosophy,/works/OL4095472W
+Democracy and Education,John Dewey,1916,6738842.0,philosophy,/works/OL111359W
+Prince,Niccolò Machiavelli,1998,13345917.0,philosophy,/works/OL21456413W
+Walking,Henry David Thoreau,1914,10044618.0,philosophy,/works/OL55719W
+Emile or Education,"Jean-Jacques Rousseau, Barbara Foxley, William Harold Wayne",1762,989104.0,philosophy,/works/OL80613W
+Mutual Aid,Peter Kropotkin,1891,10128573.0,philosophy,/works/OL1105375W
+Principles of internal medicine,"Tinsley Randolph Harrison, Kurt J. Isselbacher, Eugene Braunwald, T. R. Harrison, Robert G. Petersdorf, Joseph B. Martin, Annie Ernaux, Marc Marie, Alison L. Strayer, Anthony S. Fauci, Jean D. Wilson MD, Dennis L. Kasper, Stephen L. Hauser, Dan L. Longo, J. Larry Jameson, Joseph Loscalzo, Richard M. Stone, Stephen Hauser, Jean D. Wilson, Richard K. Root, J. Jameson, Cynthia Brown, Charles M. Wiener, Robert Groysman, Groysman",1950,4945297.0,philosophy,/works/OL280577W
+Common Sense,"Thomas Paine, Thomas Paine",1776,5921030.0,philosophy,/works/OL60358W
+Πρωταγόρας,Plato,1828,14400094.0,philosophy,/works/OL51938W
+"The ""genius""",Theodore Dreiser,1915,8369941.0,philosophy,/works/OL100196W
+Dei delitte e delle pene,Cesare Beccaria,1764,8553099.0,philosophy,/works/OL1223677W
+Τίμαιος,Plato,1520,14406434.0,philosophy,/works/OL51823W
+Discours de la méthode,René Descartes,1644,8236442.0,philosophy,/works/OL1151518W
+Θεαίτητος,Plato,1861,14400092.0,philosophy,/works/OL51854W
+Philosophical essays concerning human understanding,David Hume,1900,314112.0,philosophy,/works/OL93547W
+Kokuritsu Kokkai Toshokan shozō Meijiki kankō tosho maikuro-ban shūsei,Kokuritsu Kokkai Toshokan (Japan),1991,,philosophy,/works/OL33207850W
+Kritik der reinen Vernunft,Immanuel Kant,1781,1994279.0,philosophy,/works/OL99844W
+The Story of Philosophy,"Will Durant, 讀書新聞社",1926,405360.0,philosophy,/works/OL1073898W
+Μένων,Plato,1869,14400095.0,philosophy,/works/OL51940W
+La chute,Albert Camus,1917,8296477.0,philosophy,/works/OL1230631W
+The Stones of Venice,John Ruskin,1851,8239410.0,philosophy,/works/OL88640W
+An autobiography,Mohandas Karamchand Gandhi,1927,108086.0,philosophy,/works/OL298031W
+Der Untergang des Abendlandes,"Oswald Spengler, Charles Francis Atkinson, Dr. David G. Payne, Charles F. Atkinson, Manuel García Morente",1918,4112807.0,philosophy,/works/OL3392002W
+Culture and anarchy; an essay in political and social criticism,"Matthew Arnold, Matthew Arnold, M Arnold, Matthew (Edited with an Introduction By J. Dover Wilson) Arnold, George Saintsbury, George William Erskine Russell, Marciano Guerrero",1869,8242946.0,philosophy,/works/OL1336695W
+The Defendant,Gilbert Keith Chesterton,1901,8241428.0,philosophy,/works/OL76348W
+The way we live now,Anthony Trollope,1875,8246152.0,philosophy,/works/OL109871W
+Darkwater; voices from within the veil,W. E. B. Du Bois,1920,5597371.0,philosophy,/works/OL28571W
+The master key system in twenty-four parts with questionnaire and glossary,"Charles F. Haanel, Ruth L. Miller, Donald Gordon Carty, Mauricio Chaves Mesén, Helmar Rudolph, Joe Vitale, Oliver Jesberger",1919,7308093.0,philosophy,/works/OL2041069W
+Principles of Political Economy,John Stuart Mill,1848,862387.0,philosophy,/works/OL1068184W
+Essays,Ralph Waldo Emerson,1800,8235340.0,philosophy,/works/OL62250W
+State and Revolution,Vladimir Il’ich Lenin,1900,12727116.0,philosophy,/works/OL301143W
+Sozialgeschichte der Kunst und Literatur,"Arnold Hauser, S. Godman, Harris, Jonathan, Jonathan Harris",1951,8388010.0,philosophy,/works/OL1331984W
+De officiis,Cicero,1465,6487218.0,philosophy,/works/OL67551W
+Del sentimiento trágico de la vida en los hombres y en los pueblos,Miguel de Unamuno,1900,5620455.0,philosophy,/works/OL503529W
+Εὐθύφρων / Κρίτων / Φαίδων / Ἀπολογία Σωκράτους,Plato,1871,14390287.0,philosophy,/works/OL51784W
+Unto This Last,John Ruskin,1860,8244595.0,philosophy,/works/OL88634W
+L'Évolution créatrice,"Henri Bergson, CHAILLAND, Éditions CdBF",1907,6774245.0,philosophy,/works/OL76664W
+The Kybalion,Three Initiates,1912,8801364.0,philosophy,/works/OL20156281W
+The Everlasting Man,Gilbert Keith Chesterton,1925,1258023.0,philosophy,/works/OL76474W
+Cyropaedia,Xenophon,1527,6062894.0,philosophy,/works/OL687224W
+De l'esprit des lois,Charles-Louis de Secondat baron de La Brède et de Montesquieu,1748,8237657.0,philosophy,/works/OL453554W
+Robinson Crusoe,Daniel Defoe,1686,368541.0,adventure,/works/OL45089W
+Gulliver's Travels,Jonathan Swift,1726,12717083.0,adventure,/works/OL20600W
+Ἰλιάς,Ὅμηρος,1505,7083790.0,adventure,/works/OL61981W
+The Adventures of Tom Sawyer,Mark Twain,1817,12043351.0,adventure,/works/OL53919W
+"Le Comte de Monte-Cristo, II",Alexandre Dumas,1830,14566393.0,adventure,/works/OL36287W
+Le petit prince,Antoine de Saint-Exupéry,1943,10708272.0,adventure,/works/OL10263W
+The Prisoner of Zenda,"Anthony Hope, Gary Hoppenstand, Diane Mowat, Alan Marks, Francesc Ràfols, Andrew Pugsley, Summer M. Hogan, Summer Hogan, Smidgen Press, Charles Dana Gibson, Daniel Lanza Barba, Javier Fornell Fernandez, Stephen Colbourn, Katy Jackson, James Wilby, Robinson, M.",1800,105814.0,adventure,/works/OL245401W
+The Scarlet Pimpernel,Emma Orczy,1900,479102.0,adventure,/works/OL1253285W
+She,H. Rider Haggard,1886,295537.0,adventure,/works/OL17453W
+The Coral Island,"Robert Michael Ballantyne, Ralph Crane, George Dalziel, Edward Dalziel",1858,8242206.0,adventure,/works/OL2319934W
+Le Tour du Monde en Quatre-Vingts Jours,Jules Verne,1872,6976035.0,adventure,/works/OL1100007W
+Harry Potter and the Philosopher's Stone,J. K. Rowling,1997,15155833.0,adventure,/works/OL82563W
+Vingt mille lieues sous les mers,Jules Verne,1870,6573517.0,adventure,/works/OL1099280W
+Cleopatra,H. Rider Haggard,1881,1748730.0,adventure,/works/OL17531W
+"Le vicomte de Bragelonne, ou, dix ans plus tard","Alexandre Dumas, Auguste Maquet, Auguste Maquet",1848,14564690.0,adventure,/works/OL36738W
+Kidnapped,Robert Louis Stevenson,1886,8267822.0,adventure,/works/OL24166W
+The ghost,Arnold Bennett,1907,5877895.0,adventure,/works/OL109229W
+Harry Potter and the Chamber of Secrets,J. K. Rowling,1998,15158664.0,adventure,/works/OL82537W
+Huntingtower,John Buchan,1910,1979431.0,adventure,/works/OL76597W
+The Return of the King,J.R.R. Tolkien,1950,14627062.0,adventure,/works/OL27455W
+After London,Richard Jefferies,1885,2841895.0,adventure,/works/OL1176822W
+David Balfour,Robert Louis Stevenson,1883,8244483.0,adventure,/works/OL24163W
+Harry Potter and the Prisoner of Azkaban,J. K. Rowling,1999,10580435.0,adventure,/works/OL82536W
+"Tom Sawyer, Detective",Mark Twain,1897,8923621.0,adventure,/works/OL54147W
+Vingt ans apres̀,Alexandre Dumas,1800,14564526.0,adventure,/works/OL36462W
+The Old Man in the Corner,Emma Orczy,1908,5815381.0,adventure,/works/OL1253282W
+The master of Ballantrae,"Robert Louis Stevenson, Robert Luis Stevenson, robert l stevenson",1888,8230370.0,adventure,/works/OL24164W
+The three hostages,John Buchan,1924,755987.0,adventure,/works/OL76591W
+The Sea-Hawk,Rafael Sabatini,1900,8239512.0,adventure,/works/OL8070951W
+Lord of the Flies,William Golding,1954,8684447.0,adventure,/works/OL455327W
+"The Beasts of Tarzan (Classic Ace SF, F-203)",Edgar Rice Burroughs,1914,2421421.0,adventure,/works/OL1417916W
+When the World Shook,"H. Rider Haggard, H. Haggar",1919,2976990.0,adventure,/works/OL17518W
+Tarzan the Untamed (Book #7),Edgar Rice Burroughs,1920,2404593.0,adventure,/works/OL1418112W
+The Four Just Men,Edgar Wallace,1905,12947886.0,adventure,/works/OL1517879W
+Room 13,Edgar Wallace,1920,12947911.0,adventure,/works/OL1517919W
+Tarzan the Terrible (#8),Edgar Rice Burroughs,1921,875818.0,adventure,/works/OL1418108W
+The BFG,Roald Dahl,1732,9176033.0,adventure,/works/OL45885W
+Northern Lights,Philip Pullman,1995,8747028.0,adventure,/works/OL28988W
+Harry Potter and the Deathly Hallows,J. K. Rowling,2007,15158660.0,adventure,/works/OL82586W
+Tarzan and the Jewels of Opar,Edgar Rice Burroughs,1916,8235276.0,adventure,/works/OL1418248W
+Lost Horizon,James Hilton,1933,4656607.0,adventure,/works/OL2455093W
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,12986869.0,adventure,/works/OL2163649W
+The door with seven locks,Edgar Wallace,1926,12947915.0,adventure,/works/OL1517869W
+The black gang,H. C. McNeile,1922,13716769.0,adventure,/works/OL241903W
+The avenger,Edgar Wallace,1924,890189.0,adventure,/works/OL1518031W
+Bulldog Drummond,H. C. McNeile,1919,5894747.0,adventure,/works/OL241909W
+The Boy in the Striped Pyjamas,John Boyne,2006,12720687.0,adventure,/works/OL5840870W
+The Bobbsey Twins,Laura Lee Hope,1904,9330264.0,adventure,/works/OL4072567W
+"The nigger of the ""Narcissus""",Joseph Conrad,1897,8235355.0,adventure,/works/OL38815W
+Eragon,Christopher Paolini,2000,13921600.0,adventure,/works/OL5819895W
+The Council of Justice,Edgar Wallace,1920,890195.0,adventure,/works/OL1518049W
+The Seven Dials Mystery,Agatha Christie,1920,14575632.0,adventure,/works/OL471784W
+The Magic Walking-Stick,John Buchan,1932,5548088.0,adventure,/works/OL76561W
+Do Androids Dream of Electric Sheep?,Philip K. Dick,1968,207515.0,adventure,/works/OL2172356W
+Island of the Blue Dolphins,Scott O’Dell,1960,5021868.0,adventure,/works/OL1503145W
+The Boxcar Children,Gertrude Chandler Warner,1924,11349395.0,adventure,/works/OL24656586W
+Five on a Treasure Island,Enid Blyton,1942,14570937.0,adventure,/works/OL1948704W
+The Road,Cormac McCarthy,2006,198120.0,adventure,/works/OL40873W
+Novels (The Call of the Wild / White Fang),Jack London,1962,9381751.0,adventure,/works/OL144709W
+Winnetou,"Karl May, H. J. Graefen, Stanley L. Sharp, Alfred P. Donhauser",1893,4715144.0,adventure,/works/OL83012W
+The secret house,Edgar Wallace,1919,8134746.0,adventure,/works/OL1517998W
+The Talisman,Sir Walter Scott,1800,8239488.0,adventure,/works/OL863795W
+The just men of Cordova,Edgar Wallace,1917,890206.0,adventure,/works/OL1517988W
+The Name of the Wind,"Patrick Rothfuss, Marc Simonetti",2007,11480483.0,adventure,/works/OL8479867W
+Bulldog Drummond at bay,"H. C. McNeile, 'Sapper'.",1935,14312310.0,adventure,/works/OL92777W
+The Odessa file,"Frederick Forsyth, Frederick Davidson",1842,6630437.0,adventure,/works/OL15411113W
+The Man Who Knew,Edgar Wallace,1918,2021007.0,adventure,/works/OL1518038W
+Blue Hand,Edgar Wallace,1923,8950417.0,adventure,/works/OL1517852W
+The Mind Of Mr J Reeder,Edgar Wallace,1925,890211.0,adventure,/works/OL1517904W
+Tarzan the Invincible,Edgar Rice Burroughs,1931,284443.0,adventure,/works/OL1418089W
+The Phantom Tollbooth,Norton Juster,1961,8578174.0,adventure,/works/OL1636262W
+The Son of Tarzan,Edgar Rice Burroughs,1915,9243231.0,adventure,/works/OL1418250W
+Terror Keep,Edgar Wallace,1927,1789843.0,adventure,/works/OL1518029W
+The clue of the new pin,Edgar Wallace,1923,890193.0,adventure,/works/OL1518047W
+Caddie Woodlawn,Carol Ryrie Brink,1935,11123476.0,adventure,/works/OL265984W
+The Killer Angels,Michael Shaara,1974,1921876.0,adventure,/works/OL82664W
+The Lost Hero,Rick Riordan,2010,12848687.0,adventure,/works/OL15401200W
+The Law of The Four Just Men,Edgar Wallace,1931,890208.0,adventure,/works/OL1517886W
+Wizard's First Rule,Terry Goodkind,1994,1005963.0,adventure,/works/OL2010436W
+El Amo Del Juego/Masters of the Game,Sidney Sheldon,1905,4672.0,adventure,/works/OL1881658W
+Eaters of the Dead,Michael Crichton,1976,12640575.0,adventure,/works/OL46873W
+Ken Ward in the Jungle,Zane Grey,1912,6160786.0,adventure,/works/OL485457W
+A Dance With Dragons,George R. R. Martin,2008,11298743.0,adventure,/works/OL1955906W
+Sir Percy hits back,Emma Orczy,1927,502827.0,adventure,/works/OL8125148W
+Congo,Michael Crichton,1980,10653144.0,adventure,/works/OL46913W
+The three just men,Edgar Wallace,1929,890215.0,adventure,/works/OL1518003W
+Haroun and the Sea of Stories,Salman Rushdie,1990,10236612.0,adventure,/works/OL457172W
+"Landfall, a channel story","Nevil Shute, Rob Spence",1940,9406145.0,adventure,/works/OL2779743W
+The Final Empire,Brandon Sanderson,2001,14658160.0,adventure,/works/OL5738148W
+Lie Down With Lions,Ken Follett,1985,4147865.0,adventure,/works/OL1914086W
+Kometen kommer (Kometjakten),Tove Jansson,1946,6681831.0,adventure,/works/OL2195985W
+My Name is Aram,William Saroyan,1937,8405487.0,adventure,/works/OL1442072W
+The Defiant Agents,Andre Norton,1962,6462639.0,adventure,/works/OL473243W
+The Wolves of Willoughby Chase (Wolves #1),Joan Aiken,1911,239726.0,adventure,/works/OL262048W
+Floodtide,Frank Yerby,1950,9362782.0,adventure,/works/OL4906729W
+Ready Player One,Ernest Cline,2008,8737626.0,adventure,/works/OL15936512W
+Dragonsong,Anne McCaffrey,1976,8769648.0,adventure,/works/OL73385W
+Claudius Bombarnac,Jules Verne,1892,1801803.0,adventure,/works/OL1099309W
+The final count,H. C. McNeile,1926,10871948.0,adventure,/works/OL241906W
+Bulldog Drummond strikes back,H. C. McNeile,1933,2989023.0,adventure,/works/OL92781W
