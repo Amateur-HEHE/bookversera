@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from backend.openlibrary_api import (
+from openlibrary_api import (
     search_books,
     get_work_details,
     get_description,
