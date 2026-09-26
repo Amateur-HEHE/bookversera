@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
-from backend.recommendation_model import recommend_book
+from recommendation_model import recommend_book
 
 # =========================================================
 # CREATE FLASK APP
